@@ -1,13 +1,13 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="%O:k(qoJfzBV/3BT_k?/" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="X)Oeg{deD_9dJ~6Y@9$,"><value name="text"><shadow type="text" id="0Ka5U~lll$#gr,K7ukx~"><field name="TEXT">Hi, Becky</field></shadow></value><next><block type="device_show_leds" id="qUnC$d_4o1w%%}uc9Q9="><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="F28f`(89eoA5UNF?r{$B" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="x^M01-kf2)!,CUJd;Gqb"><value name="text"><shadow type="text" id="bfNt/N^*XFXk6j9c-MwP"><field name="TEXT">Hi, Becky</field></shadow></value><next><block type="device_show_leds" id="zkLpcVePF.2}r72PqOCM"><field name="LEDS">`
         . # . # . 
         # # # # # 
         # # # # # 
         . # # # . 
         . . # . .
-        `</field><next><block type="device_print_message" id="(A1{y5+hf+cI]y=]3XW]"><value name="text"><shadow type="text" id="ur/ZRt8j;)W/fB~{9k=]"><field name="TEXT"> I'm doing well.</field></shadow></value><next><block type="device_show_leds" id="J-6(_m~GJ@J6NSsu#Jk*"><field name="LEDS">`
+        `</field><next><block type="device_print_message" id="TN}ooANr=;kZ/,|00x$Z"><value name="text"><shadow type="text" id="9;SH.tmB7+208%dHg,lM"><field name="TEXT"> I'm doing well.</field></shadow></value><next><block type="device_show_leds" id="Odvbx%~vf,Z/AT^]#35%"><field name="LEDS">`
         . # . # . 
         . # . # . 
         . . . . . 
         # . . . # 
         . # # # .
-        `</field></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="2dt3*hq=s([Mg^`EVC7s" x="287" y="-11"></block></xml>
+        `</field></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="NSRYU~S[9t;qNtb:K{8/" x="425" y="265"></block></xml>
